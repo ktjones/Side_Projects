@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dungeon Crawl", "Dungeon Crawl\Dungeon Crawl.vcxproj", "{5DE9BA69-644F-4642-BAC9-3D21D5D12D18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting Arrays", "Sorting Arrays\Sorting Arrays.vcxproj", "{9E06B4BF-F25D-4430-B3C7-C81C636D7D3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting Practice", "Sorting Practice\Sorting Practice.vcxproj", "{E84248D5-0C3E-45A1-88A1-F84C9F63C6A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic Tac Toe", "Tic Tac Toe\Tic Tac Toe.vcxproj", "{2CE11C80-1B5E-4CAB-8B49-01FA16DB9080}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Void Pointers", "Void Pointers\Void Pointers.vcxproj", "{CCC11E26-E83E-4DD4-8A1F-398FFBE6D16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE9BA69-644F-4642-BAC9-3D21D5D12D18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DE9BA69-644F-4642-BAC9-3D21D5D12D18}.Debug|Win32.Build.0 = Debug|Win32
+		{5DE9BA69-644F-4642-BAC9-3D21D5D12D18}.Release|Win32.ActiveCfg = Release|Win32
+		{5DE9BA69-644F-4642-BAC9-3D21D5D12D18}.Release|Win32.Build.0 = Release|Win32
+		{9E06B4BF-F25D-4430-B3C7-C81C636D7D3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E06B4BF-F25D-4430-B3C7-C81C636D7D3C}.Debug|Win32.Build.0 = Debug|Win32
+		{9E06B4BF-F25D-4430-B3C7-C81C636D7D3C}.Release|Win32.ActiveCfg = Release|Win32
+		{9E06B4BF-F25D-4430-B3C7-C81C636D7D3C}.Release|Win32.Build.0 = Release|Win32
+		{E84248D5-0C3E-45A1-88A1-F84C9F63C6A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E84248D5-0C3E-45A1-88A1-F84C9F63C6A0}.Debug|Win32.Build.0 = Debug|Win32
+		{E84248D5-0C3E-45A1-88A1-F84C9F63C6A0}.Release|Win32.ActiveCfg = Release|Win32
+		{E84248D5-0C3E-45A1-88A1-F84C9F63C6A0}.Release|Win32.Build.0 = Release|Win32
+		{2CE11C80-1B5E-4CAB-8B49-01FA16DB9080}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CE11C80-1B5E-4CAB-8B49-01FA16DB9080}.Debug|Win32.Build.0 = Debug|Win32
+		{2CE11C80-1B5E-4CAB-8B49-01FA16DB9080}.Release|Win32.ActiveCfg = Release|Win32
+		{2CE11C80-1B5E-4CAB-8B49-01FA16DB9080}.Release|Win32.Build.0 = Release|Win32
+		{CCC11E26-E83E-4DD4-8A1F-398FFBE6D16F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCC11E26-E83E-4DD4-8A1F-398FFBE6D16F}.Debug|Win32.Build.0 = Debug|Win32
+		{CCC11E26-E83E-4DD4-8A1F-398FFBE6D16F}.Release|Win32.ActiveCfg = Release|Win32
+		{CCC11E26-E83E-4DD4-8A1F-398FFBE6D16F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
